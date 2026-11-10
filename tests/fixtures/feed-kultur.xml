@@ -1,0 +1,135 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+    <title>ZDFkultur</title>
+    <link>https://www.zdf.de/rss/zdf/kultur</link>
+    <atom:link href="https://www.zdf.de/rss/zdf/kultur" rel="self" type="application/rss+xml" />
+    <description>Best-of der Kultursendungen von ZDF und 3sat plus eigene Formate</description>
+    <pubDate>Fri, 6 Nov 2026 23:40:00 +0100</pubDate>
+		<item>
+        <title>Wie politische Musik die Welt ver&#228;ndert</title>
+        <link>https://www.zdf.de/video/reportagen/aspekte-106/protestsongs-biermann-100</link>
+        <description>Vor 50 Jahren wurde Wolf Biermann f&#252;r seine politischen Lieder ausgeb&#252;rgert. Heute rappen Ebow und K.I.Z. gegen Missst&#228;nde an, iranische Musiker riskieren ihre Freiheit.</description>
+        <pubDate>Fri, 6 Nov 2026 23:40:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/b6be5d34-03c4-4130-9081-3e077910eebd</guid>
+    </item>
+		<item>
+        <title>Trailer: Wie politische Musik die Welt &#228;ndert</title>
+        <link>https://www.zdf.de/video/reportagen/aspekte-106/protestsongs-biermann-102</link>
+        <description>Vor 50 Jahren wurde Wolf Biermann f&#252;r seine politischen Lieder ausgeb&#252;rgert. Heute rappen Ebow und K.I.Z. gegen Missst&#228;nde an, iranische Musiker riskieren ihre Freiheit.</description>
+        <pubDate>Fri, 6 Nov 2026 18:00:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/23cbb3be-b721-44e2-9eca-c479162f9b23</guid>
+    </item>
+		<item>
+        <title>Gef&#228;hrdet Dummheit die Demokratie?</title>
+        <link>https://www.zdf.de/video/reportagen/forum-am-freitag-154/forum-am-freitag-vom-6-november-2026-100</link>
+        <description>Dummheit: In Social Media, Meetings und Kommentarspalten. Z&#252;mr&#252;t G&#252;lbay-Peischard analysiert in ihren B&#252;chern &#8222;Akad&#228;mlich&#8220; und &#8222;Saud&#228;mlich&#8220;, warum Dummheit pl&#246;tzlich Hochkonjunktur hat.</description>
+        <pubDate>Fri, 6 Nov 2026 07:30:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/b779e151-0057-47b0-b698-4911adad9995</guid>
+    </item>
+		<item>
+        <title>13 Fragen: Hat die politische Mitte versagt?</title>
+        <link>https://www.zdf.de/video/talk/unbubble-100/demokratie-13-fragen-100</link>
+        <description>Ist die Mitte noch zu retten? &quot;13 Fragen&quot; diskutiert, warum das Vertrauen in unser demokratisches System sinkt. Kann die Mitte es zur&#252;ckgewinnen oder sind die politischen R&#228;nder n&#228;her am Alltag?</description>
+        <pubDate>Wed, 4 Nov 2026 17:00:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/1ebfdbae-1755-4c5b-be0a-ad9adf8d59d8</guid>
+    </item>
+		<item>
+        <title>Trailer: &quot;Take That&quot; &#8211; &#220;berleben als Boygroup</title>
+        <link>https://www.zdf.de/video/reportagen/aspekte-106/golden-minute-take-that-exklusiv-im-interview-100</link>
+        <description>Chartrekorde, kreischende Fans, dramatische Trennung. &quot;Take That&quot; pr&#228;gte die 90er. Die Band erz&#228;hlt Salwa Houmsi, wie sie es &#252;ber H&#246;hen und Tiefen schaffte und bis heute erfolgreich Musik macht.</description>
+        <pubDate>Fri, 30 Oct 2026 23:30:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/3cf5d567-0a21-4c4c-9214-84137dffadca</guid>
+    </item>
+		<item>
+        <title>&quot;Take That&quot; &#8211; Wie &#252;berlebt man als Boygroup?</title>
+        <link>https://www.zdf.de/video/reportagen/aspekte-106/take-that-exklusiv-im-interview-100</link>
+        <description>Chartrekorde, kreischende Fans, dramatische Trennung. &quot;Take That&quot; pr&#228;gte die 90er. Die Band erz&#228;hlt Salwa Houmsi, wie sie es &#252;ber H&#246;hen und Tiefen schaffte und bis heute erfolgreich Musik macht.</description>
+        <pubDate>Fri, 30 Oct 2026 23:30:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/93337cc0-8649-4657-8e6c-a125fd780895</guid>
+    </item>
+		<item>
+        <title>65 Jahre deutsch-t&#252;rkisches Anwerbeabkommen</title>
+        <link>https://www.zdf.de/video/reportagen/forum-am-freitag-154/forum-am-freitag-vom-30-oktober-2026-100</link>
+        <description>Vor 65 Jahren schloss Deutschland das Anwerbeabkommen mit der T&#252;rkei. Fast 900.000 Menschen kamen. Viele haben hier ihre Heimat gefunden. So wie Sabri Aydin.</description>
+        <pubDate>Fri, 30 Oct 2026 07:40:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/6c77250a-0862-4998-8577-96dd4125871f</guid>
+    </item>
+		<item>
+        <title>Die Sachbuch-Bestenliste f&#252;r November 2026</title>
+        <link>https://www.zdf.de/kultur/aspekte/bestenliste-104.html</link>
+        <description>Von ZDF, Deutschlandfunk Kultur und DIE ZEIT</description>
+        <pubDate>Wed, 28 Oct 2026 18:00:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/a03302b5-8f8d-4a15-9cba-f7185dc76fe4</guid>
+    </item>
+		<item>
+        <title>Zerst&#246;rt Reality-TV seine Stars?</title>
+        <link>https://www.zdf.de/video/talk/unbubble-100/zerstoert-reality-tv-seine-stars-100</link>
+        <description>Zwischen schnellem Geld und Morddrohungen: Brenda, Julian F. M. Stoeckel, Lorik und Sanijel diskutieren &#252;ber die dunkle Seite der Branche. </description>
+        <pubDate>Wed, 28 Oct 2026 17:00:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/0f76f2d9-24d2-406e-99ad-e1165d2d2e7d</guid>
+    </item>
+		<item>
+        <title>Entlang der B1: Deutschland den Puls f&#252;hlen</title>
+        <link>https://www.zdf.de/video/reportagen/aspekte-106/reichsstrasse-wiedervereinigung-100</link>
+        <description>Die legend&#228;re Bundesstra&#223;e 1 f&#252;hrt von Aachen nach K&#252;strin, fr&#252;her als Reichsstra&#223;e 1 sogar bis Litauen. Jo Sch&#252;ck fragt: Wie steht es um Land und Leute im Europa der Zeitenwende?</description>
+        <pubDate>Fri, 23 Oct 2026 23:35:00 +0200</pubDate>
+        <guid>https://www.zdf.de/uri/d101c7b5-be91-433b-9fbd-2cd14c0b4623</guid>
+    </item>
+		<item>
+        <title>Trailer: Die B1 entlang </title>
+        <link>https://www.zdf.de/video/reportagen/aspekte-106/trailer-reichsstrasse-wiedervereinigung-100</link>
+        <description>Die legend&#228;re Bundesstra&#223;e 1 f&#252;hrt von Aachen nach K&#252;strin, fr&#252;her als Reichsstra&#223;e 1 sogar bis Litauen. Jo Sch&#252;ck fragt: Wie steht es um Land und Leute im Europa der Zeitenwende?</description>
+        <pubDate>Fri, 23 Oct 2026 23:30:00 +0200</pubDate>
+        <guid>https://www.zdf.de/uri/e2fc3e25-af2b-4ab1-bd3e-209f0a7dd0c8</guid>
+    </item>
+		<item>
+        <title>Wandern auf T&#252;rkisch</title>
+        <link>https://www.zdf.de/video/reportagen/forum-am-freitag-154/forum-am-freitag-vom-23-oktober-2026-100</link>
+        <description>Wandern scheint ein ziemlich deutsches Hobby zu sein. Aber Cem Uzuno&#287;lu begeistert auch T&#252;rk*innen f&#252;rs Wandern. Organisiert werden die Touren in Messanger-Gruppen. Wer will, kann mitlaufen.</description>
+        <pubDate>Fri, 23 Oct 2026 07:45:00 +0200</pubDate>
+        <guid>https://www.zdf.de/uri/2a47a877-8cf7-4eb4-873d-c58b7fff52f7</guid>
+    </item>
+		<item>
+        <title>Bleiben oder abhauen?</title>
+        <link>https://www.zdf.de/video/talk/unbubble-100/auswandern-oder-bleiben-100</link>
+        <description>Lohnt sich Deutschland f&#252;r die Gen Z noch? Stephan Anpalagan diskutiert mit der Gen Z &#252;ber Steuern, Rechtsruck und den Drang, auszuwandern.</description>
+        <pubDate>Wed, 21 Oct 2026 17:00:00 +0200</pubDate>
+        <guid>https://www.zdf.de/uri/a63d787f-1576-44e6-a35d-30e1396b5236</guid>
+    </item>
+		<item>
+        <title>Pompeji: Apokalypse und antike Lust</title>
+        <link>https://www.zdf.de/video/reportagen/aspekte-106/pompeji-untergang-vulkan-100</link>
+        <description>Klimakrise, Kriege, Migration, Umweltzerst&#246;rung, KI: Dystopische Untergangsvisionen pr&#228;gen unsere Zeit. Schon Pompeji wurde 79 n.Chr. zum Symbol vom Ende der Welt. Was verbindet damals und heute?</description>
+        <pubDate>Fri, 16 Oct 2026 23:35:00 +0200</pubDate>
+        <guid>https://www.zdf.de/uri/5a06a9b8-1463-41d8-87ea-98c2c0c903d9</guid>
+    </item>
+		<item>
+        <title>Trailer: Generation Untergang: Pompeji</title>
+        <link>https://www.zdf.de/video/reportagen/aspekte-106/pompeji-untergang-vulkan-102</link>
+        <description>Klimakrise, Kriege, Migration, Umweltzerst&#246;rung, KI: Dystopische Untergangsvisionen pr&#228;gen unsere Zeit. Schon Pompeji wurde 79 n.Chr. zum Symbol vom Ende der Welt. Was verbindet damals und heute?</description>
+        <pubDate>Fri, 16 Oct 2026 23:30:00 +0200</pubDate>
+        <guid>https://www.zdf.de/uri/30885cb0-e18d-4d96-828f-bbf3270bcb29</guid>
+    </item>
+		<item>
+        <title>Jugendliteratur gegen das Vergessen</title>
+        <link>https://www.zdf.de/video/reportagen/forum-am-freitag-154/forum-am-freitag-vom-16-oktober-2026-100</link>
+        <description>Gamze Kuba&#351;&#305;k und Semiya &#350;im&#351;ek erz&#228;hlen mit Christine Werner von ihrem Leben, als ihre V&#228;ter von der rechtsextremen Terrorzelle NSU ermordet wurden. Dilek &#220;s&#252;k hat sie getroffen.</description>
+        <pubDate>Fri, 16 Oct 2026 07:45:00 +0200</pubDate>
+        <guid>https://www.zdf.de/uri/e06b16ba-4946-41ab-a6d6-ecb3e975f33c</guid>
+    </item>
+		<item>
+        <title>13 Fragen: Sind Hetero-Beziehungen peinlich?</title>
+        <link>https://www.zdf.de/video/talk/unbubble-100/13-fragen-zu-heterofatalismus-100</link>
+        <description>Boysober, Decentering Men, Heterofatalismus: Immer mehr Frauen hinterfragen Hetero-Beziehungen. &quot;13 Fragen&quot; diskutiert: Sind Singles gl&#252;cklicher oder brauchen Beziehungen nur neue Regeln?</description>
+        <pubDate>Wed, 14 Oct 2026 17:00:00 +0200</pubDate>
+        <guid>https://www.zdf.de/uri/ac11e120-a2e1-4d8b-bd5d-02169c674429</guid>
+    </item>
+		<item>
+        <title>Das Beste von der Frankfurter Buchmesse</title>
+        <link>https://www.zdf.de/video/interviews/buchmesse-150/dein-buch-das-beste-von-der-frankfurter-buchmesse-teil-2-100</link>
+        <description>&quot;dein buch&quot; - Die Highlights auf der gemeinsamen Leseb&#252;hne von ARD, ZDF und 3sat - Teil 2 mit Sven Regener, Andrea Wulf, Valeria Gordeev, Jill Lepore und Martin Suter.</description>
+        <pubDate>Mon, 12 Oct 2026 02:35:00 +0200</pubDate>
+        <guid>https://www.zdf.de/uri/7c73aae2-3b69-472a-86b2-b569c2759811</guid>
+    </item>
+	</channel>
+</rss>
