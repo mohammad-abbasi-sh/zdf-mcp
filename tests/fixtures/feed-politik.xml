@@ -1,0 +1,107 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+    <title>Politik</title>
+    <link>https://www.zdf.de/rss/zdf/politik</link>
+    <atom:link href="https://www.zdf.de/rss/zdf/politik" rel="self" type="application/rss+xml" />
+    <description>Polit-Talks, Dokus, Reportagen. Sehen Sie hier das Neueste aus Innen- und Au&#223;enpolitik.</description>
+    <pubDate>Tue, 10 Nov 2026 18:36:00 +0100</pubDate>
+		<item>
+        <title>Wie deutsche R&#252;stungsmanager bedroht werden </title>
+        <link>https://www.zdfheute.de/video/frontal/frontal-inside-bedrohung-100.html</link>
+        <description>400 Euro f&#252;r eine Blumenlieferung. Am Ende stehen Trauerkr&#228;nze vor einer Firma. Wie geraten Menschen in solche Operationen? frontal Inside blickt hinter die Recherche zu Wegwerfagenten.</description>
+        <pubDate>Tue, 10 Nov 2026 18:36:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/ceb87c07-7d8b-47bb-8ae0-38b8f26367d6</guid>
+    </item>
+		<item>
+        <title>Warum Merz die Entscheidung herausz&#246;gerte</title>
+        <link>https://www.zdfheute.de/video/politix/aigner-merz-soeder-bundespraesidentin-politix-100.html</link>
+        <description>Ilse Aigner soll neue Bundespr&#228;sidentin werden. Aber warum hat Merz so lange gez&#246;gert? Oder war alles genauso geplant? Das ZDF-Hauptstadtstudio-Team analysiert die aktuelle Lage.</description>
+        <pubDate>Tue, 10 Nov 2026 15:15:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/18e529bd-8c8a-49a8-8abd-83a5e225eeab</guid>
+    </item>
+		<item>
+        <title>Alice Weidels politische Transformation</title>
+        <link>https://www.zdfheute.de/video/berlin-direkt/alice-weidel-afd-leaks-100.html</link>
+        <description>Noch vor zehn Jahren geh&#246;rte Alice Weidel zu den Gem&#228;&#223;igten, das zeigen geleakte AfD-Mails. Inzwischen hat sich ihr Ton deutlich versch&#228;rft.</description>
+        <pubDate>Sun, 8 Nov 2026 19:10:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/a215589a-7f22-47fd-a53d-b3e93c5ddeda</guid>
+    </item>
+		<item>
+        <title>Frei: &quot;Die Plastiksteuer machen wir nicht&quot;</title>
+        <link>https://www.zdfheute.de/video/berlin-direkt/frei-cdu-haushalt-plastiksteuer-100.html</link>
+        <description>Unionsfraktionschef Thorsten Frei (CDU) h&#228;lt den Haushalt der Koalition f&#252;r &quot;handwerklich sauber&quot;. Die Plastiksteuer lehnt er ab, sagt er im ZDF.</description>
+        <pubDate>Sun, 8 Nov 2026 19:10:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/28767b4c-2489-4393-8a71-5a448e7eb2cc</guid>
+    </item>
+		<item>
+        <title>Die holprige Festlegung auf Ilse Aigner</title>
+        <link>https://www.zdfheute.de/video/berlin-direkt/aigner-merz-soeder-100.html</link>
+        <description>Ilse Aigner soll Bundespr&#228;sidentin werden - doch auf dem Weg zu ihrer Nominierung hat vor allem Kanzler Friedrich Merz unsouver&#228;n gewirkt.</description>
+        <pubDate>Sun, 8 Nov 2026 19:10:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/201072f1-6830-4611-bcf9-e415e8b67962</guid>
+    </item>
+		<item>
+        <title>Die Koalition ringt um den Haushalt</title>
+        <link>https://www.zdfheute.de/video/berlin-direkt/haushalt-koalition-klingbeil-100.html</link>
+        <description>Mehr als 200 Milliarden Euro plant der Bund 2027 an neuen Schulden. Zu viel, sagen Kritiker. Sie bem&#228;ngeln: Die Koalition k&#246;nnte viel kraftvoller konsolidieren.</description>
+        <pubDate>Sun, 8 Nov 2026 19:10:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/80ded57b-23e5-45fe-92d7-a2bb6ac382d7</guid>
+    </item>
+		<item>
+        <title>Berlin direkt vom 8. November 2026</title>
+        <link>https://www.zdfheute.de/video/berlin-direkt/berlin-direkt-vom-8-november-2026-100.html</link>
+        <description>Berlin direkt - mit den Themen: 1.) Die Koalition und der Haushalt, 2.) Interview mit Thorsten Frei, 3.) Die Nominierung Ilse Aigners, 4.) Was sagen die AfD-Leaks &#252;ber Alice Weidel?</description>
+        <pubDate>Sun, 8 Nov 2026 19:10:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/173f2a40-4200-4be9-b5df-1abe6cda18b5</guid>
+    </item>
+		<item>
+        <title>Cyberangriffe nehmen zu</title>
+        <link>https://www.zdfheute.de/video/laenderspiegel/cyberangriffe-nehmen-zu-100.html</link>
+        <description>Cyberangriffe werden zur wachsenden Gefahr. Kliniken, Universit&#228;ten und Superm&#228;rkte geraten zunehmend ins Visier von Hackern. Die T&#228;ter sind schwer zu ermitteln, der Schaden f&#252;r Betroffene enorm.</description>
+        <pubDate>Sat, 7 Nov 2026 17:05:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/794b4003-55eb-459c-abe8-9a985bdb56bc</guid>
+    </item>
+		<item>
+        <title>Jugendgewalt in Brandenburg</title>
+        <link>https://www.zdfheute.de/video/laenderspiegel/jugendgewalt-in-brandenburg-104.html</link>
+        <description>In Brandenburg steigt die Jugendgewalt. In Potsdam sorgen Raub&#252;berf&#228;lle f&#252;r Probleme. Schulsozialarbeit soll gegensteuern, denn entscheidend sei die soziale Lage der T&#228;ter, nicht die Herkunft.</description>
+        <pubDate>Sat, 7 Nov 2026 17:05:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/0bbcda13-ac8c-4b2b-b554-f40571c8bc19</guid>
+    </item>
+		<item>
+        <title>Hendrik W&#252;sts CDU in unruhigen Zeiten</title>
+        <link>https://www.zdfheute.de/video/laenderspiegel/cdu-nrw-stimmungstest-100.html</link>
+        <description>Die Landtagswahl in NRW gilt als wichtiger Stimmungstest f&#252;r die Bundesregierung. Kann Ministerpr&#228;sident Hendrik W&#252;st seine Position behaupten oder w&#228;chst auch hier der Druck von rechts?</description>
+        <pubDate>Sat, 7 Nov 2026 17:05:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/0384515c-f813-4dff-8ce2-38506ac64562</guid>
+    </item>
+		<item>
+        <title>L&#228;nderspiegel vom 7. November 2026</title>
+        <link>https://www.zdfheute.de/video/laenderspiegel/laenderspiegel-vom-7-november-2026-100.html</link>
+        <description>Mit den Themen: Superm&#228;rkte, Unis, Kliniken im Visier &#8211; Cyberangriffe nehmen zu / Jugendgewalt in Brandenburg &#8211; Ein Integrationsproblem? / Hammer der Woche - Neuer &#196;rger um sanierten Platz</description>
+        <pubDate>Sat, 7 Nov 2026 17:05:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/b27e8190-74b4-4cc9-89ec-76c345c21915</guid>
+    </item>
+		<item>
+        <title>Frust &#252;ber Stra&#223;enausbaubeitr&#228;ge</title>
+        <link>https://www.zdfheute.de/video/laenderspiegel/frust-ueber-strassenausbaubeitraege-100.html</link>
+        <description>Es war ein Wahlversprechen der CDU in Rheinland-Pfalz: Die Stra&#223;enausbaubeitr&#228;ge sollen wegfallen. In der Eifel ist die Wut nun gro&#223;, denn den Anwohnern drohen trotzdem immense Kosten.</description>
+        <pubDate>Sat, 7 Nov 2026 17:05:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/26c1919b-1090-4dab-88b4-110f44de391c</guid>
+    </item>
+		<item>
+        <title>Deutschlandreise in die m&#228;rkische Schweiz</title>
+        <link>https://www.zdfheute.de/video/laenderspiegel/deutschlandreise-maerkische-schweiz-100.html</link>
+        <description>Nur 50 Kilometer von Berlin entfernt bietet die M&#228;rkische Schweiz W&#228;lder, H&#252;gel und klare Seen. In Buckow erinnert das Brecht-Weigel-Haus an Bertolt Brecht und verbindet Natur mit Kultur.</description>
+        <pubDate>Sat, 7 Nov 2026 17:05:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/76184724-2212-4fb9-b6eb-a2465f9f0038</guid>
+    </item>
+		<item>
+        <title>Hammer der Woche aus Biberach</title>
+        <link>https://www.zdfheute.de/video/laenderspiegel/hammer-der-woche-aus-biberach-102.html</link>
+        <description>Der Alte Postplatz in Biberach wurde vor einigen Jahren saniert. Doch weil die Fl&#228;chen bei der Neugestaltung versiegelt wurden, kam es mehrfach zu &#220;berschwemmungen. Nun muss die Stadt nachbessern.</description>
+        <pubDate>Sat, 7 Nov 2026 17:05:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/24f09c6e-48a1-4219-b6a4-7704659650dd</guid>
+    </item>
+	</channel>
+</rss>
