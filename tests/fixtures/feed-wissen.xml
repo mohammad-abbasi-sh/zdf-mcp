@@ -1,0 +1,150 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+    <title>Wissen</title>
+    <link>https://www.zdf.de/rss/zdf/wissen</link>
+    <atom:link href="https://www.zdf.de/rss/zdf/wissen" rel="self" type="application/rss+xml" />
+    <description>Erleben Sie die besten Dokumentationen, Reportagen und Wissensformate der ZDFmediathek st&#228;ndig verf&#252;gbar</description>
+    <pubDate>Mon, 9 Nov 2026 06:00:00 +0100</pubDate>
+		<item>
+        <title>Kreuz und Krone</title>
+        <link>https://www.zdf.de/video/dokus/terra-x-die-geschichte-der-deutschen-100/terra-x-die-geschichte-der-deutschen-kreuz-und-krone-doku-100</link>
+        <description>Im fr&#252;hen Mittelalter verbreitet sich ein neuer Glaube im heutigen Deutschland. Es ist eine Zeit, in der Karl der Gro&#223;e die Menschen zu Christen macht und Europa neu ordnet.
+</description>
+        <pubDate>Mon, 9 Nov 2026 06:00:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/90a8f1a5-3a98-4486-b9ca-c00caec35eb7</guid>
+    </item>
+		<item>
+        <title>Pest und Profit</title>
+        <link>https://www.zdf.de/video/dokus/terra-x-die-geschichte-der-deutschen-100/terra-x-die-geschichte-der-deutschen-pest-und-profit-doku-100</link>
+        <description>Eine Pandemie ersch&#252;ttert ab 1347 Europa. Rund ein Drittel der europ&#228;ischen Bev&#246;lkerung stirbt am &quot;Schwarzen Tod&quot;. Viele suchen nach Schuldigen &#8211; und finden sie vermeintlich in den Juden.</description>
+        <pubDate>Mon, 9 Nov 2026 06:00:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/cf7541f2-da77-4587-88ff-8e63052c4e3b</guid>
+    </item>
+		<item>
+        <title>Trailer: Die Geschichte der Deutschen</title>
+        <link>https://www.zdf.de/dokumentation/terra-x/terra-x-die-geschichte-der-deutschen-trailer-100.html</link>
+        <description>Wo kommen wir her? Wie lebten unsere Vorfahren? Schauspieler Matthias Brandt begibt sich f&#252;r Terra X auf eine Zeitreise durch die Jahrtausende. Von der letzten Eiszeit bis ins Sp&#228;tmittelalter.</description>
+        <pubDate>Mon, 9 Nov 2026 06:00:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/8537d7b2-74b2-4fef-88e3-d596c934f2df</guid>
+    </item>
+		<item>
+        <title>R&#246;mer und Germanen</title>
+        <link>https://www.zdf.de/video/dokus/terra-x-die-geschichte-der-deutschen-100/terra-x-die-geschichte-der-deutschen-roemer-und-germanen-doku-100</link>
+        <description>St&#228;dte, Stra&#223;en, Wein und auch W&#246;rter zeugen von r&#246;mischem Einfluss. Doch die R&#246;mer erobern nicht ganz Germanien, durch das Land und sogar durch Familien zieht sich ein Riss.</description>
+        <pubDate>Mon, 9 Nov 2026 06:00:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/7c00d23c-47e8-4d68-b70d-83eb96d06ad3</guid>
+    </item>
+		<item>
+        <title>Ritter und St&#228;dte</title>
+        <link>https://www.zdf.de/video/dokus/terra-x-die-geschichte-der-deutschen-100/terra-x-die-geschichte-der-deutschen-ritter-und-staedte-doku-100</link>
+        <description>Ritter und St&#228;dte sind die neuen Kr&#228;fte im hohen Mittelalter. Zugleich schlie&#223;en sich die Bewohner der neu entstehenden St&#228;dte zu einer bislang unbekannten Gemeinschaft freier B&#252;rger zusammen.</description>
+        <pubDate>Mon, 9 Nov 2026 06:00:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/72dad327-d68c-46c1-ba3c-08f56c9b3a97</guid>
+    </item>
+		<item>
+        <title>Knochen und Gene</title>
+        <link>https://www.zdf.de/video/dokus/terra-x-die-geschichte-der-deutschen-100/terra-x-die-geschichte-der-deutschen-knochen-und-gene-doku-100</link>
+        <description>Die Reise beginnt vor 40.000 Jahren auf der Schw&#228;bischen Alb. Die ersten modernen Menschen hinterlie&#223;en dort nicht nur Werkzeuge und Jagdwaffen, sondern auch Zeugnisse kreativen Schaffens.</description>
+        <pubDate>Mon, 9 Nov 2026 06:00:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/017b2884-8a7d-420a-a241-c79bd68132f0</guid>
+    </item>
+		<item>
+        <title>Mansa Musa und das goldene Paradies</title>
+        <link>https://www.zdf.de/video/dokus/terra-x-geschichte-kurz-100/mansa-musa-und-das-goldene-paradies-webvideo-100</link>
+        <description>Mit gut gef&#252;llten Kassen besteigt 1312 der Mansa Musa den Thron. Er gilt als der reichste Mann seiner Zeit. Er m&#246;chte, dass die Welt von seinem Reich erf&#228;hrt und sucht daf&#252;r Verb&#252;ndete im Westen.</description>
+        <pubDate>Sun, 8 Nov 2026 10:00:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/e302909d-5fb3-4b48-a6d5-9df6c4421b5e</guid>
+    </item>
+		<item>
+        <title>So nutzen Wale Luftblasen</title>
+        <link>https://www.zdf.de/dokumentation/terra-x/so-nutzen-wale-luftblasen-creative-commons-clip-100.html</link>
+        <description>Wenn Wale Luftblasen aussto&#223;en, bezirzen die M&#228;nnchen meist die Weibchen. Die Blasen dienen aber auch zur Jagd auf Fische. Doch kommunizieren sie damit auch mit Menschen?</description>
+        <pubDate>Mon, 2 Nov 2026 10:00:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/7e2df789-2393-4584-9102-aa1648c3acf6</guid>
+    </item>
+		<item>
+        <title>Die brutalen Arbeitslager der Sowjetunion</title>
+        <link>https://www.zdf.de/video/explainer/mrwissen2gogeschichte-102/gulag-die-brutalen-arbeitslager-der-sowjetunion-100</link>
+        <description>&#220;ber Jahrzehnte leisten dort sch&#228;tzungsweise 25 Millionen Menschen unter grausamen Bedingungen Zwangsarbeit.</description>
+        <pubDate>Thu, 29 Oct 2026 16:00:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/8ecafac6-6326-45ec-bc5a-5c0596326b4e</guid>
+    </item>
+		<item>
+        <title>Luft - Die unsichtbare Zutat</title>
+        <link>https://www.zdf.de/video/reportagen/terra-x-chemie-des-kochens-mit-mai-thi-nguyen-kim-dokureihe-100/terra-x-chemie-des-kochens-luft-mit-mai-thi-nguyen-kim-doku-100</link>
+        <description>Luft steht in keinem Rezept. Trotzdem entscheidet sie dar&#252;ber, ob ein Sauerteigbrot locker aufgeht, eine Sauce federleicht wird oder ein Windbeutel seine charakteristische H&#246;hlung bekommt.</description>
+        <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/317d5ea9-f5d9-41d8-b9b4-4fdb6962824e</guid>
+    </item>
+		<item>
+        <title>Erde - Wo Geschmack entsteht</title>
+        <link>https://www.zdf.de/video/reportagen/terra-x-chemie-des-kochens-mit-mai-thi-nguyen-kim-dokureihe-100/terra-x-chemie-des-kochens-erde-mit-mai-thi-nguyen-kim-doku-100</link>
+        <description>Warum duftet Tr&#252;ffel so intensiv? Und was beeinflusst den Geschmack einer Kartoffel? Eine der spannendsten Zutaten unserer Nahrung liegt dort verborgen, wo wir sie kaum wahrnehmen: in der Erde.</description>
+        <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/752bc563-3c63-48cc-b0a9-21ea0ffd5033</guid>
+    </item>
+		<item>
+        <title>Giftk&#246;nig Mithridates gegen Rom</title>
+        <link>https://www.zdf.de/video/dokus/terra-x-geschichte-kurz-100/giftkoenig-mithridates-und-die-roemische-republik-webvideo-100</link>
+        <description>Es ist das Jahr 89 v. Chr.: K&#246;nig Mithridates VI. nimmt Gift wie Vitamine. Mit kleinen Mengen gew&#246;hnt er seinen K&#246;rper an t&#246;dliche Substanzen. Denn Mithridates lebt gef&#228;hrlich, sein Gegner: Rom.</description>
+        <pubDate>Sun, 25 Oct 2026 10:00:00 +0100</pubDate>
+        <guid>https://www.zdf.de/uri/3352aa24-b2ca-466e-a275-033607f72f5d</guid>
+    </item>
+		<item>
+        <title>Istanbuls Geografie</title>
+        <link>https://www.zdf.de/dokumentation/terra-x/istanbuls-geografie-creative-commons-clip-100.html</link>
+        <description>Vor Istanbul haben sich die eurasische und die anatolische Kontinentalplatte vermutlich verhakt. Entl&#228;dt sich die Spannung, k&#246;nnte das in der Mega-Metropole ein verheerendes Erdbeben ausl&#246;sen.</description>
+        <pubDate>Mon, 19 Oct 2026 10:00:00 +0200</pubDate>
+        <guid>https://www.zdf.de/uri/f7f4b7a5-27d4-4a91-b77e-d023c42f1914</guid>
+    </item>
+		<item>
+        <title>Wasserversorgung in K&#246;ln zu Zeiten der R&#246;mer</title>
+        <link>https://www.zdf.de/dokumentation/terra-x/wasserversorgung-in-koeln-zu-zeiten-des-roemischen-reichs-creative-commons-clip-102.html</link>
+        <description>&#214;ffentliche Geb&#228;ude und Villen hatten einen direkten Trinkwasseranschluss an die Leitung aus der Eifel. F&#252;r die &#228;rmere Bev&#246;lkerung sprudelten Tag und Nacht hunderte &#246;ffentliche Brunnen.</description>
+        <pubDate>Mon, 5 Oct 2026 10:00:00 +0200</pubDate>
+        <guid>https://www.zdf.de/uri/1383051b-92e0-4ffb-a500-c052a38f520f</guid>
+    </item>
+		<item>
+        <title>Kuba und die USA</title>
+        <link>https://www.zdf.de/video/dokus/terra-x-geschichte-kurz-100/kuba-und-die-usa-webvideo-100</link>
+        <description>Von der Revolution &#252;ber den Kalten Krieg bis zur heutigen Krise: Die Insel spielt oft eine bedeutende Rolle in der Weltpolitik. Erlebt Kubas Regime unter Donald Trump sein letztes Kapitel?</description>
+        <pubDate>Sun, 4 Oct 2026 10:00:00 +0200</pubDate>
+        <guid>https://www.zdf.de/uri/d9698799-0ada-4ef6-9790-946125827ced</guid>
+    </item>
+		<item>
+        <title>Flucht aus Auschwitz</title>
+        <link>https://www.zdf.de/video/dokus/terra-x-geschichte-kurz-100/flucht-aus-auschwitz-webvideo-100</link>
+        <description>Mai 1944. Der polnische Jude Czeslaw Mordowicz arbeitet seit Wochen auf den Moment hin. Er will aus dem KZ fliehen. Ein verzweifelter Plan. Er wei&#223;, was ihm droht, wenn die Flucht misslingt. </description>
+        <pubDate>Sun, 27 Sep 2026 10:00:00 +0200</pubDate>
+        <guid>https://www.zdf.de/uri/0b5ad26d-7e6f-4fb6-8fe0-2dbc714a8587</guid>
+    </item>
+		<item>
+        <title>Was sind Jetstreams?</title>
+        <link>https://www.zdf.de/dokumentation/terra-x/was-sind-jetstreams-creative-commons-clip-100.html</link>
+        <description>Jetstreams wehen bis 15 Kilometer &#252;ber der Erdoberfl&#228;che, mit Geschwindigkeiten bis 300 km/h. Obwohl sie H&#246;henwinde sind, die wir am Boden nicht direkt sp&#252;ren, beeinflussen sie unser Wetter. </description>
+        <pubDate>Mon, 21 Sep 2026 10:00:00 +0200</pubDate>
+        <guid>https://www.zdf.de/uri/c0443c69-ee01-4707-afde-612825207f0d</guid>
+    </item>
+		<item>
+        <title>Trailer: Ozeane - Eine Menschheitsgeschichte</title>
+        <link>https://www.zdf.de/dokumentation/terra-x/terra-x-ozeane-eine-menschheitsgeschichte-trailer-100.html</link>
+        <description>Meere pr&#228;gen Leben, Kulturen und Zivilisationen in Vergangenheit und Gegenwart. Terra X geht auf Entdeckungsreise in den Atlantik, das Mittelmeer, den Pazifik, den Indischen Ozean sowie Ozeanien.</description>
+        <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
+        <guid>https://www.zdf.de/uri/f84c8a2c-8428-4a65-bf63-954a6b0a4b32</guid>
+    </item>
+		<item>
+        <title>Atlantik &#8211; Ozean der St&#252;rme</title>
+        <link>https://www.zdf.de/video/dokus/terra-x-ozeane-eine-menschheitsgeschichte-100/terra-x-ozeane-eine-menschheitsgeschichte-atlantik-ozean-der-stuerme-doku-100</link>
+        <description>Der Atlantik ist die Br&#252;cke zwischen den Kontinenten und der Motor einer zunehmend vernetzten Welt. Kaum ein anderer Ozean hat die moderne Welt so stark gepr&#228;gt.</description>
+        <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
+        <guid>https://www.zdf.de/uri/a80c6ca2-fd0b-4d68-83b6-2c4c7c1d68bd</guid>
+    </item>
+		<item>
+        <title>Mittelmeer &#8211; Meer der Verbindung</title>
+        <link>https://www.zdf.de/video/dokus/terra-x-ozeane-eine-menschheitsgeschichte-100/terra-x-ozeane-eine-menschheitsgeschichte-mittelmeer-meer-der-verbindung-doku-100</link>
+        <description>Im Vergleich zu den gro&#223;en Ozeanen ist das europ&#228;ische Mittelmeer eher klein &#8211; und doch hat es wie kein anderes Meer unsere Menschheitsgeschichte weitgehend mitgeschrieben.</description>
+        <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
+        <guid>https://www.zdf.de/uri/38005116-3ff6-4210-a687-2d9bf3dc4fc8</guid>
+    </item>
+	</channel>
+</rss>
